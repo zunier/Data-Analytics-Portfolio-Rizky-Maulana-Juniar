@@ -3,6 +3,41 @@
 ## About Me
 I am a data analyst enthusiast with a strong foundation in document management and one year of experience in the field, mostly using Microsoft Excel and Google Spreadsheet. I am renowned for my meticulous attention to detail, exceptional multitasking abilities, and commitment to delivering outstanding results. I thrive in dynamic environments and possess the skills to effectively communicate with individuals at all levels within an organization.
 
+## Google Spreadsheet Skill
+In the google spreadsheet, I did several things related to data analysis as follows:
+1) Remove unnecessary columns
+2) Remove duplicate values
+3) Change the data type correctly
+4) Handling null values
+5) Create new column for further analysis
+6) Descriptive analysis
+7) Data visualization
+8) Linear Regression
+
+Link to Spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1dNnVbjv_TAJAYVftRrnprTp6BclLqc6ysrtUyEDTG9Y/edit#gid=645301189
+
+Deck:
+
+https://docs.google.com/presentation/d/19MXhp_4ceqy6NAZFJ29-mtsAoDgYkw3Ahei_R8XKfEk/edit#slide=id.g241e1f15add_0_30
+
+## Google Bigquery - SQL Skill
+
+
+
+## Google Colab - Python Skill
+
+
+
+## Looker Studio Skill
+
+Used to create a data visualization interactive dashboard for stakeholder.
+
+Link to Looker Studio:
+
+https://lookerstudio.google.com/u/0/reporting/09272ae8-3a23-449b-96f8-2b1a4cec8ee8/page/Sg5ZD
+
 ## Group Project Based Analysis
 For our analysis project, we retrieved the dataset of **"Trending YouTube Video Statistics"** through kaggle, with the following link:
 
@@ -34,6 +69,6 @@ Link of Google Collab for Data Cleaning Purposes:
 
 https://colab.research.google.com/drive/1NCYyj11eKWKS1Y3M4TPRNYGlg0Btf_F3?authuser=1#scrollTo=eqIFycbaUwt0
 
-DECK:
+Deck:
 
 https://drive.google.com/file/d/1q4m-QZhyzxDFyON2r_lZdj6yfLb9_BlX/view
