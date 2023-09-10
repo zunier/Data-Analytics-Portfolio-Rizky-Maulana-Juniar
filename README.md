@@ -14,7 +14,7 @@ In the google spreadsheet, I did several things related to data analysis as foll
 7) Data visualization
 8) Linear Regression
 
-Link to Spreadsheet:
+Link to my example work with Google Spreadsheet:
 
 https://docs.google.com/spreadsheets/d/1dNnVbjv_TAJAYVftRrnprTp6BclLqc6ysrtUyEDTG9Y/edit#gid=645301189
 
@@ -22,19 +22,27 @@ Deck:
 
 https://docs.google.com/presentation/d/19MXhp_4ceqy6NAZFJ29-mtsAoDgYkw3Ahei_R8XKfEk/edit#slide=id.g241e1f15add_0_30
 
-## Google Bigquery - SQL Skill
+## Google BigQuery - SQL Skill
 
+Using SQL queries to retrieve, filter, aggregate, and transform data stored in BigQuery tables.
 
+Link to my example work with Google BigQuery:
+
+https://console.cloud.google.com/bigquery?sq=697615886208:428d2b7477bf4945a7ef231c1f491baa
 
 ## Google Colab - Python Skill
 
+Used for Data Cleaning, EDA, and Creating Cluster.
 
+Link to my example work with Google Colab:
+
+https://colab.research.google.com/drive/1Da6Z5kqeKGwehtz0F5ZFyggJd31Q3LBD?authuser=1
 
 ## Looker Studio Skill
 
 Used to create a data visualization interactive dashboard for stakeholder.
 
-Link to Looker Studio:
+Link to my example work with Looker Studio:
 
 https://lookerstudio.google.com/u/0/reporting/09272ae8-3a23-449b-96f8-2b1a4cec8ee8/page/Sg5ZD
 
